@@ -50,5 +50,5 @@ Predict monthly crime incident counts using historical crime data and temporal p
 
 \## Current Status
 
-✔ Data Wrangling Completed
+✔ Exploratory Data Analysis Completed
 
