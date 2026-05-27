@@ -30,6 +30,10 @@ Predict monthly crime incident counts using historical crime data and temporal p
 
 \- Jupyter Notebook
 
+\- Statsmodels
+
+
+
 
 
 \## Workflow
@@ -50,5 +54,5 @@ Predict monthly crime incident counts using historical crime data and temporal p
 
 \## Current Status
 
-✔ Exploratory Data Analysis Completed
+✔ Model Building and Evaluation Completed
 
